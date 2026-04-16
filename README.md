@@ -5,6 +5,7 @@ This priject focuses on financial derivative modeling using Python. It specifica
 
 **Features**
 1. Bull Call Spread Visualization
+
 The notebook calculates and plots the fundamental "Greeks" for a Bull Call Spread across various maturities (0.1, 1, 2, 5, and 10 years). The visualizations include:
 Delta: Measures the rate of change of the spread's value relative to changes in the underlying spot price.
 Gamma: Measures the rate of change in Delta relative to changes in the underlying price.
